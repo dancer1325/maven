@@ -3,11 +3,16 @@
 * TODO:
 ## `plugin`
 * 👁️Required 👁️
-  * TODO:
-  * `configuration`
-    * := DOM object / 
-      * uses
-        * configuration
-      * TODO:
+  * `groupId`
+    * TODO:
+  * `artifactId`
+    * TODO:
+  * `version`
+    * TODO:
+* `configuration`
+  * := DOM object / 
+    * uses
+      * configuration
+    * TODO:
 
 ## TODO:
